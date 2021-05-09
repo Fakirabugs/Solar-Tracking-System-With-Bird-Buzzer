@@ -6,7 +6,7 @@ The major components required for the circuit are : -
 Mini Solar Panel     -   1
 LDR (Photoresistor) - 4
 SG90 Micro Servo Motor - 2
-Arduino UNO - 1
+Arduino UNO - 2
 Resistor (330 ohm) - 4
 Ultrasonic Distance Sensor - 1
 Buzzer - 1
